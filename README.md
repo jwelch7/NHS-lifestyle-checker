@@ -1,6 +1,6 @@
 # Welcome
 
-## Thank you for allowing me the opportunity to submit a tech test and I hope you find it good to use
+## Thank you for allowing me the opportunity to submit a tech test for you at Aire and I really hope you enjoy using it.
 
 ### Getting Started
 To clone the repo, navigate to the appropriate location and in your terminal type `git clone https://github.com/jwelch7/NHS-lifestyle-checker.git`
