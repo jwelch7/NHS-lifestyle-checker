@@ -2,6 +2,13 @@
 
 ## Thank you for allowing me the opportunity to submit a tech test and I hope you find it good to use
 
+### Getting Started
+To clone the repo, navigate to the appropriate location and in your terminal type `git clone https://github.com/jwelch7/NHS-lifestyle-checker.git`
+
+Then install the packages, using `npm i` or `yarn i`
+
+### App info
+
 I have written comments next to my code throughout to help explain things and will go into more detail in here.
 
 I chose to do this project in React as it is a framework I am familiar with and has a lot of great inbuilt features as well as external 3rd party packages that I can use to make this app successfully.
@@ -26,8 +33,8 @@ Access to XMLHttpRequest at 'https://al-tech-test-apim.azure-api.net/tech-test/t
 In order to get this finished on time I included an approximation of the code I would have used guessing as closely as I could to response headers (eg res.data.statusCode).
 I then mocked the users in the database in a mockDB object which included all 5 users and enabled me to perform the functionality of the app by comparing user inputs to this array of objects.
 
-I created two utility functions using TDD which to ensure their reliability.
+I created two utility functions using TDD which to ensure their reliability. You can test these using `npm run test`
 
-# Thank you for taking the time to review my project and I hope you enjoyed it.
+## Thank you for taking the time to review my project and I hope you enjoyed it.
 
-Jonno
+### Jonno
